@@ -38,6 +38,7 @@ This project was showcased at the **Cultural Fair**, where it won **1st place** 
 - Email: amynjko@gmail.com  
 - LinkedIn: [Arthur Mynjko](https://www.linkedin.com/in/arthur-mynjko-985b482b3/)  
 - GitHub: [@Mynjko2008](https://github.com/Mynjko2008)
+
 -Instagram: [@arthur_mynjko](https://www.instagram.com/arthur_mynjko/)
 
 ---
