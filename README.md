@@ -26,7 +26,7 @@
 - 📍 From São Paulo, Brazil  
 - 🎓 Student in **Technical Systems Development** at EE Yervant Kissajikian  
 - 📚 Self-taught in programming, cybersecurity and full-stack development  
-- 🏆 1st place in **Cultural Fair 2024** with a web-based item exchange system  
+- 🏆 1st place in **Cultural Fair 2025** with a web-based item exchange system  
 
 ---
 
