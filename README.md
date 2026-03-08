@@ -24,7 +24,7 @@
 ### 🎓 Education & Profile
 
 - 📍 From São Paulo, Brazil  
-- 🎓 Student in **Technical Systems Development** at EE Yervant Kissajikian  
+- 🎓 Student in **Technical Systems Development** at Escola Técnica Estadual Itaquera 1  
 - 📚 Self-taught in programming, cybersecurity and full-stack development  
 - 🏆 1st place in **Cultural Fair 2025** with a web-based item exchange system  
 
